@@ -4,7 +4,7 @@ A collection of Unity tools and static functions I use heaps bundled into a neat
 ## Installation
 1. open `window > package manager`
 2. click the plus button in the top left corner and then `Add package from git URL`
-3. pasta `https://github.com/Chikanz/DookTools.git#upm`
+3. pasta `https://github.com/The-Bob/DookTools.git#upm`
 
 ## what's in the box? in the box? what's in the box today?
 ### DookTools
