@@ -23,7 +23,9 @@ Allows control mode to be changed via Untiy shortcuts so that it can be changed 
 Support class for changing simple values over time without all the boilerplate shit
 
 <s>
+  
 ### DookShortcuts
+
 just some editor shortcuts I found real handy
 
 `ctrl + G` to group objects
