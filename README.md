@@ -10,14 +10,19 @@ A collection of Unity tools and static functions I use heaps bundled into a neat
 ### DookTools
 Some nice real functions I've hand picked from the far corners of the internet
 
+<s>
+  
 ### 3D mouse support
+
 Just a slightly modified version of [this repo ](https://github.com/PatHightree/SpaceNavigator)
 
 Allows control mode to be changed via Untiy shortcuts so that it can be changed from the mouse's radial menu[.](https://i.imgur.com/a1HeSm4.png)
+</s>
 
 ### Animatey
 Support class for changing simple values over time without all the boilerplate shit
 
+<s>
 ### DookShortcuts
 just some editor shortcuts I found real handy
 
@@ -26,7 +31,7 @@ just some editor shortcuts I found real handy
 `ctrl + M` move currently selected object to in front of editor camera
 
 `ctrl + Q` deselect all objects
-
+</s>
 
 ## How'd you do this?
 https://neogeek.dev/creating-custom-packages-for-unity-2018.3/
